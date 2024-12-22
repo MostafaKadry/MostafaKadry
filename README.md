@@ -1,9 +1,9 @@
 Hi there! I'm Mostafa Kadry.
-💻 Full-Stack Developer | 🎨 Front-End Enthusiast 
+💻 Full-Stack Developer 
 
 About Me:
 🔹 Front-End Developer: Crafting interactive and responsive user interfaces using Vanilla JavaScript, React.js, and Next.js.
-🔹 Back-End Developer: Building robust APIs and server-side logic with Node.js.
+🔹 Back-End Developer: Building robust APIs and server-side logic with Node.js and Python
 🔹 Accountant: Leveraging my background in accounting to create data-driven applications and maintain financial precision in projects.
 What I Do:
 ✨ Merge creative designs with functional code to deliver seamless web experiences.
