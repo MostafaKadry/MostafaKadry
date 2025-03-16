@@ -1,5 +1,5 @@
 Hi there! I'm Mostafa Kadry.
-💻 Full-Stack Developer 
+💻 Full-Stack Developer Python | MERN
 
 About Me:
 🔹 Front-End Developer: Crafting interactive and responsive user interfaces using Vanilla JavaScript, React.js, and Next.js.
